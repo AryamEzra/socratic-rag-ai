@@ -1,6 +1,7 @@
 langchain
 langchain-groq
 langchain-community
+langchain-pinecone
 pinecone-client
 streamlit
 python-dotenv
